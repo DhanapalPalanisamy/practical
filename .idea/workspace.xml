@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abc44186-8bbc-40d5-818e-1a62da56e486" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bin/aws-v3.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/bundle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/htmldiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/ldiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/nokogiri" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rackup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rails" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rougify" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/thor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/uuid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/launchbrowser_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/launchbrowser_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/newruby.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rspec_html_reports/launchbrowser.html" beforeDir="false" afterPath="$PROJECT_DIR$/rspec_html_reports/launchbrowser.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rspec_html_reports/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/rspec_html_reports/overview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rspec_html_reports/when-testing-the-launchbrowser-class.html" beforeDir="false" afterPath="$PROJECT_DIR$/rspec_html_reports/when-testing-the-launchbrowser-class.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rspec_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/rspec_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/LaunchBrowser.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/LaunchBrowser.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/newlaunchbrowser_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/newlaunchbrowser_spec.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/spec_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
-    </list>
+    <list default="true" id="abc44186-8bbc-40d5-818e-1a62da56e486" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -322,7 +297,7 @@
       <workItem from="1583764008298" duration="845000" />
       <workItem from="1585548148690" duration="7446000" />
       <workItem from="1585569824291" duration="8329000" />
-      <workItem from="1586337161632" duration="3450000" />
+      <workItem from="1586337161632" duration="4081000" />
     </task>
     <servers />
   </component>
